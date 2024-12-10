@@ -50,6 +50,7 @@ K/9 (Strikeouts por 9 innings)
 - Seaborn
 - Jupyter Notebooks
 - PowerBI Desktop
+
 `Todos los requisitos se pueden obtener por medio de nix`
 
 # Instalacion
