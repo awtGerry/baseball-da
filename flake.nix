@@ -40,6 +40,8 @@
                 joblib
                 requests
                 beautifulsoup4
+                seaborn
+                scipy
               ]
             ))
           ];

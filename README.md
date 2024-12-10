@@ -59,7 +59,7 @@ Clonar el repositorio
 # Con nix
 nix develop
 # Usando pip
-# En este caso necesitamos crear un ambiente virtual de Python
+# NOTA: en este caso se necesita crear un ambiente virtual de Python
 pip install -r requirements.txt
 ```
 
