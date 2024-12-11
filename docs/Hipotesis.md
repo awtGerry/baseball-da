@@ -1,5 +1,7 @@
 # Hipotesis de investigacion
-> [!NOTE] Idea principal
+> [!NOTE]
+> **Idea principal**
+> 
 > Existe una correlación directa entre el porcentaje de bases por bolas (BB%) y la producción de carreras de un equipo?
 
 ### Ideas secundarias
