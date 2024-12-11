@@ -18,26 +18,26 @@ Período analizado: 2019-2023
 
 ## Hallazgos Principales
 - Base por Bolas y Producción de Carreras
- - Correlación encontrada: [OPS: 0.80, BB%: -0.07, R/G: 0.74]
- - Impacto en carreras por juego
- - Ejemplos de equipos exitosos
+  - Correlación encontrada: [OPS: 0.80, BB%: -0.07, R/G: 0.74]
+  - Impacto en carreras por juego
+  - Ejemplos de equipos exitosos
 
 - OPS vs Promedio de Bateo
- - Comparación de correlaciones
- - Por qué OPS es un mejor predictor
- - Casos de estudio específicos
+  - Comparación de correlaciones
+  - Por qué OPS es un mejor predictor
+  - Casos de estudio específicos
 
 - WHIP y Éxito en Playoffs
- - Diferencias estadísticas significativas
- - Umbral crítico para playoffs
- - Ejemplos de la temporada actual
+  - Diferencias estadísticas significativas
+  - Umbral crítico para playoffs
+  - Ejemplos de la temporada actual
 
 - Tendencias Identificadas
- - Evolución de métricas clave
- - Cambios en el juego moderno
- - Predicciones futuras
+  - Evolución de métricas clave
+  - Cambios en el juego moderno
+  - Predicciones futuras
 
 - Conclusiones
- - Resumen de hallazgos principales
- - Implicaciones prácticas
- - Áreas para futura investigación
+  - Resumen de hallazgos principales
+  - Implicaciones prácticas
+  - Áreas para futura investigación
