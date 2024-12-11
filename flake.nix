@@ -42,6 +42,7 @@
                 beautifulsoup4
                 seaborn
                 scipy
+                joblib
               ]
             ))
           ];
