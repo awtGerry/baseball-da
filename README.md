@@ -42,6 +42,15 @@ WHIP (Walks + Hits per Inning Pitched)
 ERA (Earned Run Average)
 K/9 (Strikeouts por 9 innings)
 
+# Instalacion
+Clonar el repositorio
+```sh
+# nix flakes
+nix develop
+# pip
+pip install -r requirements.txt
+```
+
 ## Requisitos
 - Python 3.8+
 - Pandas
@@ -51,24 +60,12 @@ K/9 (Strikeouts por 9 innings)
 - Jupyter Notebooks
 - PowerBI Desktop
 
-`Todos los requisitos se pueden obtener por medio de nix`
-
-# Instalacion
-Clonar el repositorio
-```sh
-# Con nix
-nix develop
-# Usando pip
-# NOTA: en este caso se necesita crear un ambiente virtual de Python
-pip install -r requirements.txt
-```
-
 # Lineamientos del proyecto
-- Crear una presentación (PowerPoint, etc) con los descubrimientos de su análisis
-- Crear un tablero de PowerBI
-- Opcional (Crear un notebook de python para el modelo de IA)
-- Contexto del problema (hablar sobre el dominio)
-- Incluir hipótesis de investigación. (Describir las variables a buscar)
-- fuentes de datos (Usar al menos 2 fuentes de datos) proceso de limpieza.
-- Graficas donde se representen los resultados, (usar la guía que les pase para elegir la grafica)
-- (Opcional) agregar un modelo de IA
+- [✅] Crear una presentación (PowerPoint, etc) con los descubrimientos de su análisis
+- [✅] Crear un tablero de PowerBI
+- [✅] Opcional (Crear un notebook de python para el modelo de IA)
+- [✅] Contexto del problema (hablar sobre el dominio)
+- [✅] Incluir hipótesis de investigación. (Describir las variables a buscar)
+- [✅] fuentes de datos (Usar al menos 2 fuentes de datos) proceso de limpieza.
+- [✅] Graficas donde se representen los resultados, (usar la guía que les pase para elegir la grafica)
+- [✅] (Opcional) agregar un modelo de IA
